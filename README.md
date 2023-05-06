@@ -1,4 +1,4 @@
-### Hi! I am a CS student from Buenos Aires, Argentina. Passionate about math, game dev and coffee. Hoping to work on some fun projects this year :)
+### Hi! I am a CS student from Argentina. Currently focused on learning game dev. Math nerd. Hoping to work on some fun projects this year :)
 
 <!--
 **VarSiv/VarSiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
